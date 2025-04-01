@@ -1,4 +1,4 @@
-# Notekeeper Fullstack Project
+# Notekeeper Fullstack Project By SESETHU APHELELE NOGEMANE aphelelesesethu719@gmail.com
 
 Welcome to the **Notekeeper Fullstack Project**! This is a full-stack web application that allows users to securely store and manage their notes. It's built using modern technologies, including Django for the backend, Angular for the frontend, PostgreSQL for the database, and Docker for containerization (optional). 
 
@@ -44,5 +44,5 @@ Ensure you have the following tools installed:
 ### 1. Clone the Repository
 First, clone the project repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/notekeeper_fullstack.git
+https://github.com/Sesecode1221/notekeeper_fullstack.git
 cd notekeeper_fullstack
